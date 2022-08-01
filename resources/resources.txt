@@ -1,0 +1,10 @@
+OAI:
+  https://github.com/OAI/
+
+  https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.0.md
+
+Swagger:
+  https://github.com/swagger-api
+
+	https://github.com/swagger-api/swagger-ui
+	https://github.com/swagger-api/swagger-editor

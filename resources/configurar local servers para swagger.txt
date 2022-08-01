@@ -1,0 +1,13 @@
+1- instalar un web server:
+    npm install -g http-server
+
+2- cd  swagger-editor
+
+3- npm install
+
+4- cd ..
+
+5- http-server swagger-editor -a 127.0.0.1 -p 8081
+
+5- http-server swagger-ui -a 127.0.0.1 -p 8082
+
